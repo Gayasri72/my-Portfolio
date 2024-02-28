@@ -5,6 +5,7 @@ import { Experience } from './components/Experience/Experience';
 
 import { Hero } from './components/Hero/Hero';
 import {Navbar} from './components/Navbar/Navbar';
+import { Projects } from './components/Projects/Projects';
 
 
 
@@ -16,6 +17,7 @@ return (
     <Hero/>
     <About/>
     <Experience/>
+    <Projects/>
     
 </div>
 )
