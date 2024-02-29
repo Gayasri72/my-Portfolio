@@ -1,9 +1,23 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import styles from "./navbar.module.css";
 import { getImageUrl } from "../../utils";
 
 export const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
+  const [screenWidth, setScreenWidth] = useState(window.innerWidth);
+
+  useEffect(() => {
+    const handleResize = () => {
+      setScreenWidth(window.innerWidth);
+    };
+
+    window.addEventListener("resize", handleResize);
+
+    return () => {
+      window.removeEventListener("resize", handleResize);
+    };
+  }, []);
+
   return (
     <nav className={styles.navbar}>
       <a className={styles.title} href="/">
@@ -11,7 +25,9 @@ export const Navbar = () => {
       </a>
       <div className={styles.menu}>
         <img
-          className={styles.menuBtn}
+          className={`${styles.menuBtn} ${
+            screenWidth > 830 ? styles.hideMenuButton : ""
+          }`}
           src={
             menuOpen
               ? getImageUrl("nav/closeIcon.png")
@@ -41,5 +57,3 @@ export const Navbar = () => {
     </nav>
   );
 };
-
-
