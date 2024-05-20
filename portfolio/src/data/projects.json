@@ -10,24 +10,24 @@
     {
       "title": "BoardMe-web app",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
+      "description": "This is a project made to learn the MERN stack. This the Project we did for y2s2 group project in the university",
       "skills": ["React", "Express", "Node", "Mongo Db"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
     },
     {
-      "title": "Project C",
+      "title": "oop project",
       "imageSrc": "projects/project.png",
       "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
+      "skills": ["Java servlet", "HTML", "Css","My-Sql"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
     },
     {
-      "title": "Simple Kotlin calculator",
+      "title": "Hotel Avenga",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["Android studio", "Kotlin"],
+      "description": "This is a project made to learn the HTML,CSS,PHP,JS.We completed this for the y1s2 group project",
+      "skills": ["HTML", "Css","php","js","Ms Sql"],
       "demo": "https://www.example.com",
       "source": "https://github.com/Gayasri72/Kotlin_Calculator.git"
     },
@@ -40,7 +40,7 @@
       "source": "https://github.com/Gayasri72/Kotlin_Calculator.git"
     },
     {
-      "title": "Simple Kotlin calculator",
+      "title": "PK Mart",
       "imageSrc": "projects/project.png",
       "description": "This is a project made to learn the latest languages by building an app.",
       "skills": ["Android studio", "Kotlin"],
@@ -48,23 +48,23 @@
       "source": "https://github.com/Gayasri72/Kotlin_Calculator.git"
     },
     {
-      "title": "Simple Kotlin calculator",
+      "title": "MERN Food App",
       "imageSrc": "projects/project.png",
       "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["Android studio", "Kotlin"],
+      "skills": ["React", "Express", "Node", "Mongo Db","Typescript"],
       "demo": "https://www.example.com",
       "source": "https://github.com/Gayasri72/Kotlin_Calculator.git"
     },
     {
-      "title": "Simple Kotlin calculator",
+      "title": "Mern Hotel App",
       "imageSrc": "projects/project.png",
       "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["Android studio", "Kotlin"],
+      "skills": ["React", "Express", "Node", "Mongo Db","Typescript"],
       "demo": "https://www.example.com",
       "source": "https://github.com/Gayasri72/Kotlin_Calculator.git"
     },
     {
-      "title": "Simple Kotlin calculator",
+      "title": "Gshop",
       "imageSrc": "projects/project.png",
       "description": "This is a project made to learn the latest languages by building an app.",
       "skills": ["Android studio", "Kotlin"],
