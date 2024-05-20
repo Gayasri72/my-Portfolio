@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import  { useState, useEffect } from "react";
 import styles from "./navbar.module.css";
 import { getImageUrl } from "../../utils";
 
@@ -21,7 +21,7 @@ export const Navbar = () => {
   return (
     <nav className={styles.navbar}>
       <a className={styles.title} href="/">
-        Portfolio
+        My Portfolio
       </a>
       <div className={styles.menu}>
         <img

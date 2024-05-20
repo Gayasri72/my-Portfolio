@@ -1,17 +1,17 @@
 [
     {
-      "title": "Project A",
+      "title": "My portfolio",
       "imageSrc": "projects/project.png",
       "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
+      "skills": ["React", "Css", "Node"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/Gayasri72/my-Portfolio.git"
     },
     {
-      "title": "Project B",
+      "title": "BoardMe-web app",
       "imageSrc": "projects/project.png",
       "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
+      "skills": ["React", "Express", "Node", "Mongo Db"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
     },
@@ -22,5 +22,53 @@
       "skills": ["React", "Express", "Node"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
+    },
+    {
+      "title": "Simple Kotlin calculator",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["Android studio", "Kotlin"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Gayasri72/Kotlin_Calculator.git"
+    },
+    {
+      "title": "Simple Kotlin calculator",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["Android studio", "Kotlin"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Gayasri72/Kotlin_Calculator.git"
+    },
+    {
+      "title": "Simple Kotlin calculator",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["Android studio", "Kotlin"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Gayasri72/Kotlin_Calculator.git"
+    },
+    {
+      "title": "Simple Kotlin calculator",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["Android studio", "Kotlin"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Gayasri72/Kotlin_Calculator.git"
+    },
+    {
+      "title": "Simple Kotlin calculator",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["Android studio", "Kotlin"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Gayasri72/Kotlin_Calculator.git"
+    },
+    {
+      "title": "Simple Kotlin calculator",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["Android studio", "Kotlin"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Gayasri72/Kotlin_Calculator.git"
     }
   ]
