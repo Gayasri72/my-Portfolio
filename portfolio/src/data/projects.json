@@ -70,5 +70,13 @@
       "skills": ["Android studio", "Kotlin"],
       "demo": "https://www.example.com",
       "source": "https://github.com/Gayasri72/Kotlin_Calculator.git"
+    },
+    {
+      "title": "Machine learning model",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["Linear regression", "Python","machine learning"],
+      "demo": "https://laptoppricepredictordemov2-a406e4e22083.herokuapp.com/",
+      "source": "https://github.com/Gayasri72/machine-learning-project-1-Laptop-price-predictor"
     }
   ]
